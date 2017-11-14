@@ -4,6 +4,7 @@ A:active  { COLOR: #6666FF; }
 A:hover   {
 	COLOR: #FF0000;
 	TEXT-DECORATION: underline;
+	BACKGROUND-COLOR: #00ff00;
 }
 
 H1{
